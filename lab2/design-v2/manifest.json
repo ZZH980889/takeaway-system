@@ -96,20 +96,16 @@
     "sha256": "9c6ffc263c795735ffb41fd2940b974efe8676dee1dfb4c62d4b44ac44b870a6"
   },
   {
-    "path": "UI界面/25_退款处理.jpg",
-    "sha256": "3ed8d32f525e875f825495ad196dfa4d541d0c69b87ff45232bed69391bb9f45"
-  },
-  {
     "path": "UI界面/26_操作日志.jpg",
     "sha256": "04f49ac3de41c81662053998b3ba764f88f07d878d415eb1a6266657e2d9222c"
   },
   {
     "path": "UI界面/截图索引.json",
-    "sha256": "d22de5ca8567beeee8066bc8e1409eeeb9d487350c85a0873f2b2c7b3b6dfc04"
+    "sha256": "ace83792ec3262c64943f45ee93c3c3e3ce9ee9d52c7b2eb54768202c64859e2"
   },
   {
     "path": "UI界面.zip",
-    "sha256": "3caa8a42c0b6f81ee58b6bae4be4b0a6356c7ea53c737d0c0c2abd0c29af61f5"
+    "sha256": "6ce49782975c27de79ba380d52b1a5ccd844fc10ad6d88afb5ff5fb179b12b74"
   },
   {
     "path": "UML/01_组件图.png",
