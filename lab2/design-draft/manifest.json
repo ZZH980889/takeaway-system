@@ -1,0 +1,61 @@
+{
+  "tag": "lab2-design-draft",
+  "files": [
+    {
+      "path": "uml/01_组件图.png",
+      "sha256": "c1bd8ebf663641fe7e05918b3690e99b40f332740e77d9d747bc484642e1288e"
+    },
+    {
+      "path": "uml/02_类图.png",
+      "sha256": "149141e94fe52a9e9a9c73f36392e6aab282febb447241cf88b29c696cdc1346"
+    },
+    {
+      "path": "uml/03_订单状态图.png",
+      "sha256": "addbb1e90aac4b62a73624abf9591ddb62e9a84d48a3fdcb66e8e5026a8b1a40"
+    },
+    {
+      "path": "uml/04_下单时序图.png",
+      "sha256": "8b356e579a6a2c6fccac40b315610ba597dc02dfa2a91e0fe236477f2b113755"
+    },
+    {
+      "path": "ui-v1/1cd15ae8009a85bc24623d3fe4b86753.png",
+      "sha256": "0e11d718eb446157a1e7ae3e2d2e8d6a63428e8c2bb772d3d29c881254807deb"
+    },
+    {
+      "path": "ui-v1/427c7d90db5feba92689269fa5b376ad.png",
+      "sha256": "2b292124f34fd46a99f0c3efe398bb5408b53570a300448802844ed11901ba94"
+    },
+    {
+      "path": "ui-v1/4b558391159cec1b158381841c078381.png",
+      "sha256": "eb57700ab2ca52400924fe6204c24f440fab1cad153927cbefc95a8b055be68b"
+    },
+    {
+      "path": "ui-v1/50bf46a03eb1bc07c164787e0bd47b7d.png",
+      "sha256": "614ad4328c5a799bf9e55aa9d48e25fbd934455b10f7e58598c024c5ef8d0471"
+    },
+    {
+      "path": "ui-v1/571e382ad7aac5e026b7ffeb28fb09d3.png",
+      "sha256": "690990c73119e7624b23e525d4ad08a11fec06713ed6196f8977a9418edb7d36"
+    },
+    {
+      "path": "ui-v1/611d7a9c5af5422f21fd9d4b04123f51.png",
+      "sha256": "e80aa1b5cc49c7ec7ccae0fe58dcf7bb007e0d03c69feb1a13e65a4af1af1624"
+    },
+    {
+      "path": "ui-v1/7053c339208e65422c22a0d745114cca.png",
+      "sha256": "4aa1883f2cd9f7350c25bd1e1655d530680f7a5e3efbd286c4a6f43931de408c"
+    },
+    {
+      "path": "ui-v1/af6737ddd3dab60df9d7366ae6b78242.png",
+      "sha256": "8d2522c8bd6aeaf674013ad3986578a93ff4788a472297983fad722920dc37a1"
+    },
+    {
+      "path": "ui-v1/b6e1494d8a919334510a1f55ce10d434.png",
+      "sha256": "474e6392497d506bed76bbeb672b2f72c0178761e4c87149cdafe367ca222253"
+    },
+    {
+      "path": "ui-v1/dbb03b663e72c901ba7e4d77b129512b.png",
+      "sha256": "eafeb4e58fc54883d20571c57b9da2aaddfc557640f935bc9bea8b685876f570"
+    }
+  ]
+}
