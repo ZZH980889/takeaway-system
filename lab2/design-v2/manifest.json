@@ -1,0 +1,130 @@
+[
+  {
+    "path": "UI界面/01_账号密码登录.jpg",
+    "sha256": "232f1644127d5e908216a9b3daccc657a8881bee9d0cd453481c3291514fa46b"
+  },
+  {
+    "path": "UI界面/02_手机号验证登录.jpg",
+    "sha256": "a1a4d3caea7ed7ab975b815961c15abe2ba3678ea5f1d838ea7d92dc68c07253"
+  },
+  {
+    "path": "UI界面/03_身份注册.jpg",
+    "sha256": "998a403e2843a865a0f05dfe163ff0793886bc0ffa57b89f02dc13e7239600d9"
+  },
+  {
+    "path": "UI界面/04_顾客选餐.jpg",
+    "sha256": "b3510181bcadfc336637e0b3899a70df87e3da669654aa1e03c16418b2d098dc"
+  },
+  {
+    "path": "UI界面/05_顾客购物车.jpg",
+    "sha256": "7cc3dc178eeec6fd38b7090f10b232a52616816659ad05586b88a0a6b9aa91d5"
+  },
+  {
+    "path": "UI界面/06_订单确认.jpg",
+    "sha256": "25cea473b1ca50285e5354774de10f9d738a64fe74e84d76c8dc728a01a18136"
+  },
+  {
+    "path": "UI界面/07_模拟支付.jpg",
+    "sha256": "bfe01c09f2f17703a0463c45eac9a3f33cb62cdbbe431b22554a235b73aee787"
+  },
+  {
+    "path": "UI界面/08_顾客订单列表.jpg",
+    "sha256": "25ce7fa3aa1a8e138709670410deefaf1a3d85248fb8e4516c3f6d344cfa649d"
+  },
+  {
+    "path": "UI界面/09_配送位置.jpg",
+    "sha256": "990c83fd46aeacabef6173aa5a5f03362b225fecf48a6e00d7a9e2c61d43922f"
+  },
+  {
+    "path": "UI界面/10_顾客个人中心.jpg",
+    "sha256": "0fa120cd925cdf777be06b63c0f665faf10f1f89613686d2cad33f6d8168bf2e"
+  },
+  {
+    "path": "UI界面/11_商家订单工作台.jpg",
+    "sha256": "23a63525589f68ff8c9ff87f56d77993579e9abfb7701efd02ca40111a8d033b"
+  },
+  {
+    "path": "UI界面/12_菜品与库存.jpg",
+    "sha256": "a17960486cc2d18b8b6b79f3e826db2ec6c69b9bbd4010abf3fba7648a1ea700"
+  },
+  {
+    "path": "UI界面/13_菜品编辑.jpg",
+    "sha256": "a6d8bf133b4eed85badf676118d7ad50872913b1a39aff7429ecc30effc14e62"
+  },
+  {
+    "path": "UI界面/14_店铺设置.jpg",
+    "sha256": "03e05ed9c79a530c73300be6d7d9980540dc9157299bf1b706ac7698bcd468f7"
+  },
+  {
+    "path": "UI界面/15_营收统计.jpg",
+    "sha256": "08adeb78f49ac1260af44b1c1125d19655408ef5df02e35af61707de5c1bb8aa"
+  },
+  {
+    "path": "UI界面/16_骑手任务大厅.jpg",
+    "sha256": "92c3ce538842b252216e3b561580251c280ec052a6489b13223743156dfc67ce"
+  },
+  {
+    "path": "UI界面/17_骑手配送任务.jpg",
+    "sha256": "ceb8d5a456565f0c07f0789e2f4feb09701b71cdb45050d05f08dd5416c6f235"
+  },
+  {
+    "path": "UI界面/18_骑手异常上报.jpg",
+    "sha256": "e5bbbe130d0f43c227a7b3d5eba712af004a90c6b162513017b241627544a4b6"
+  },
+  {
+    "path": "UI界面/19_骑手个人中心.jpg",
+    "sha256": "1a164faade0f8dcd93733e4065f5b96264bfe41862624634aca26c091f2f9fdb"
+  },
+  {
+    "path": "UI界面/20_管理员登录.jpg",
+    "sha256": "e42b7f5fcca92c4ceb209e9d7d9d21d14796133a2dcfc540d0abbd01ddf496b0"
+  },
+  {
+    "path": "UI界面/21_平台工作概览.jpg",
+    "sha256": "6bb27df1ef7625cc3868d3b7f8354eb494af3ddc90a11c9826d83742da73afff"
+  },
+  {
+    "path": "UI界面/22_主体审核.jpg",
+    "sha256": "b3b07a62331eeb28cd5b100f495cb34111baf596671b45f740177256090ff62f"
+  },
+  {
+    "path": "UI界面/23_平台订单.jpg",
+    "sha256": "bfc8f68a1f957b62ea713e2ff10918e30328253d8764e780d3b11e1c78789943"
+  },
+  {
+    "path": "UI界面/24_配送异常处理.jpg",
+    "sha256": "9c6ffc263c795735ffb41fd2940b974efe8676dee1dfb4c62d4b44ac44b870a6"
+  },
+  {
+    "path": "UI界面/25_退款处理.jpg",
+    "sha256": "3ed8d32f525e875f825495ad196dfa4d541d0c69b87ff45232bed69391bb9f45"
+  },
+  {
+    "path": "UI界面/26_操作日志.jpg",
+    "sha256": "04f49ac3de41c81662053998b3ba764f88f07d878d415eb1a6266657e2d9222c"
+  },
+  {
+    "path": "UI界面/截图索引.json",
+    "sha256": "d22de5ca8567beeee8066bc8e1409eeeb9d487350c85a0873f2b2c7b3b6dfc04"
+  },
+  {
+    "path": "UI界面.zip",
+    "sha256": "3caa8a42c0b6f81ee58b6bae4be4b0a6356c7ea53c737d0c0c2abd0c29af61f5"
+  },
+  {
+    "path": "UML/01_组件图.png",
+    "sha256": "c1bd8ebf663641fe7e05918b3690e99b40f332740e77d9d747bc484642e1288e"
+  },
+  {
+    "path": "UML/02_类图.png",
+    "sha256": "149141e94fe52a9e9a9c73f36392e6aab282febb447241cf88b29c696cdc1346"
+  },
+  {
+    "path": "UML/03_订单状态图.png",
+    "sha256": "addbb1e90aac4b62a73624abf9591ddb62e9a84d48a3fdcb66e8e5026a8b1a40"
+  },
+  {
+    "path": "UML/04_下单时序图.png",
+    "sha256": "8b356e579a6a2c6fccac40b315610ba597dc02dfa2a91e0fe236477f2b113755"
+  }
+]
