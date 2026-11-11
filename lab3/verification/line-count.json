@@ -1,0 +1,87 @@
+{
+  "business_files": {
+    "backend/__init__.py": {
+      "physical": 1,
+      "effective": 0
+    },
+    "backend/accounts.py": {
+      "physical": 135,
+      "effective": 112
+    },
+    "backend/app.py": {
+      "physical": 425,
+      "effective": 358
+    },
+    "backend/catalog.py": {
+      "physical": 170,
+      "effective": 144
+    },
+    "backend/common.py": {
+      "physical": 124,
+      "effective": 91
+    },
+    "backend/db.py": {
+      "physical": 198,
+      "effective": 186
+    },
+    "backend/delivery.py": {
+      "physical": 133,
+      "effective": 111
+    },
+    "backend/jobs.py": {
+      "physical": 94,
+      "effective": 79
+    },
+    "backend/orders.py": {
+      "physical": 247,
+      "effective": 218
+    },
+    "backend/refunds.py": {
+      "physical": 104,
+      "effective": 89
+    },
+    "backend/reporting.py": {
+      "physical": 70,
+      "effective": 61
+    },
+    "backend/seed.py": {
+      "physical": 56,
+      "effective": 51
+    },
+    "run.py": {
+      "physical": 27,
+      "effective": 20
+    },
+    "frontend/app.js": {
+      "physical": 521,
+      "effective": 497
+    }
+  },
+  "business_effective_lines": 2017,
+  "test_files": {
+    "tests/conftest.py": {
+      "physical": 20,
+      "effective": 16
+    },
+    "tests/test_boundaries.py": {
+      "physical": 206,
+      "effective": 170
+    },
+    "tests/test_workflows.py": {
+      "physical": 348,
+      "effective": 282
+    }
+  },
+  "tests_effective_lines": 468,
+  "excluded": [
+    "reused lab2 styles.css",
+    "HTML",
+    "CSS",
+    "documentation",
+    "blank lines",
+    "comments",
+    "Python docstrings",
+    "tool scripts"
+  ],
+  "note": "Physical source-line metric, not statement count; multiline SQL schema is included."
+}

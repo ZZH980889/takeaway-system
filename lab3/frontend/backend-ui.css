@@ -1,0 +1,13 @@
+.backend-banner { padding: 9px 25px; background: #e8eddc; font-size: 12px; }
+.filters label { margin: 0; }
+.authform form { width: 100%; }
+.actions { align-items: center; }
+.error { white-space: pre-wrap; }
+.badge { white-space: nowrap; }
+.stats-summary { margin-bottom: 20px; }
+.modal { overflow-wrap: anywhere; }
+.content h2 { margin: 15px 0; }
+@media (max-width: 650px) {
+  .top .brand { font-size: 22px; }
+  .tablewrap { max-width: calc(100vw - 36px); }
+}
